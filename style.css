@@ -1,10 +1,17 @@
-	
+@font-face {
+	font-family: montserrat;
+	src: url(fonts/Montserrat-Regular.ttf);
+  }
+  
+  div {
+	font-family: montserrat;
+  }	
 	body {
 		background:#fff;
 		color:#666666;
 		font-size:13px;
 		line-height:24px;
-		font-family: 'Raleway', sans-serif;
+		font-family: 'montserrat', sans-serif;
 	}
 	
 	
@@ -811,7 +818,6 @@
 		opacity:1 !important;
 	}
 	.tparrows {
-		border:1px solid #aaaaaa;
 		cursor: pointer;
 		background: rgba(0, 0, 0, 0) !important;
 		width: 60px !important;
