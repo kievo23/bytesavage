@@ -2653,10 +2653,9 @@
 		background:#fff !important
 	}
 	
-	.sliderbigtitle {
-	font-size: 26px;
-	}
-	
+	.navbar-brand {
+		padding: 5px 5px;
+		/* line-height: 20px; */
 	}
 	
 	
